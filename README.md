@@ -11,8 +11,5 @@ VBE References required: (enabled under Tools > References)
 - Microsoft Forms 2.0 Object Library
 - Microsoft Scripting Runtime
 - Microsoft Outlook 16.0 Object Library
-- Photoshop:
-    - Adobe Photoshop 2020 Object Library
-    - Adobe Photoshop 2020 Type Library
 
 Each form is foldered next to a screenshot of how it should look, plus a txt version of its code for reference and any required files.
