@@ -15,4 +15,4 @@ VBE References required: (enabled under Tools > References)
     - Adobe Photoshop 2020 Object Library
     - Adobe Photoshop 2020 Type Library
 
-Each form is foldered next to a screenshot of how it should look, plus a text file version of its code for reference and any required files.
+Each form is foldered next to a screenshot of how it should look, plus a txt version of its code for reference and any required files.
